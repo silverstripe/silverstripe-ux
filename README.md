@@ -8,7 +8,7 @@ These are working documents so they are not meant to be pretty, although as the 
 ## Working with the files:
 To see these files in action please link the symbols file (CMS Symdols.sketch) to the rest of the files (https://sketchtalk.io/discussion/2719/libraries-beta-native-in-sketch)
 You could work straight from the symbols file to make use of the symbols for ease of use as long as you are not merging these files back into the master repository.
-These disign files require Sketch plugins to work—otherwise they will most likely appear broken.
+These design files require Sketch plugins to work—otherwise they will most likely appear broken.
 
 Note: 
 * The information (Master @ 951921b)on file names are only required for using the design merging tool Abstract and not required to use the files so they can be renamed if desired.
