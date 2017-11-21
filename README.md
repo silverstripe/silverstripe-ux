@@ -5,6 +5,8 @@ Open Source Design Work for the SilverStripe CMS
 You should link the file "CMS Symdols.sketch" to your own sketch design file unless you work straight from the symbols file.
 These disign files require Sketch plugins to work (otherwise they will appear broken).
 
+Note: that the information (Master @ 951921b) is only required for using the design merging tool Abstract and not required in the file title so can be removed.
+
 ## Required plugins:
 * Sketch bounding boxer - hiding and showing padding and margins within sketch
 * Lauchpad - more control over positioning of items incl. negative placements
