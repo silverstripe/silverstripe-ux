@@ -11,8 +11,7 @@ You can work straight from the symbols file for ease of use as long as you are n
 These design files require Sketch plugins to work—otherwise they will most likely appear broken.
 
 Note: 
-* The information (Master @ 951921b) on file names are only required for using the design merging tool Abstract and not required to use the files so they can be renamed if desired.
-* These files will be updated on an approx. monthly bases
+These files will be updated on an approx. monthly bases
 
 ### Required plugins:
 * Sketch bounding boxer - hiding and showing padding and margins within sketch
