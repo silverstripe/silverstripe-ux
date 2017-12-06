@@ -3,7 +3,7 @@ Open Source Design Work for the SilverStripe CMS
 
 The intention of these files is to allow more visibility of the designs planned for development, as well as experiemental designs used for prototype testing.
 
-These are working documents so they are not meant to be pretty, although as the pattern library expands this file will become more complete and easier to extract component styles.
+These are working documents and will be continuously improved over time, although as the pattern library expands this file will become more complete and easier to extract component styles.
 
 ## Working with the files:
 To see these files in action please link the symbols file (CMS Symdols.sketch) to the rest of the files (https://sketchtalk.io/discussion/2719/libraries-beta-native-in-sketch).
