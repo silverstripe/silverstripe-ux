@@ -16,6 +16,7 @@ These files will be updated on an approx. monthly bases
 ### Required plugins:
 * Sketch bounding boxer - hiding and showing padding and margins within sketch, by default they are hidden so they might not bother you
 * Anima Launchpad - more control over positioning of items incl. negative placements
+* Paddy - automated padding, spacing and alignment for your Sketch layers
 
 ### Plugins required for OS contribution—typically for SilverStripe designers (available on request to community):
 * Abstract - Merge tool for multiple people working on the same sketch files at the same time
